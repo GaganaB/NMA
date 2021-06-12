@@ -40,7 +40,8 @@
 
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
-Side Note: This list can get overwhelming. Choose wisely!
+For the entire list of videos and other content, refer [here](https://academy.neuromatch.io/nma2020/course-materials).
+Side Note: The list below can get overwhelming. Choose wisely!
 
 1. Reinforcement Learning:
 https://cs182sp21.github.io/
