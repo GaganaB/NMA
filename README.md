@@ -24,7 +24,10 @@
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D4/w2d4.pdf)
 - [Reinforcement Learning](https://github.com/GaganaB/NMA/tree/master/W2D5)
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D5/W2D5.pdf)
-
+- [Real Neurons](https://github.com/GaganaB/NMA/tree/master/W3D1)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D1/Week3%2C%20Day1.pdf)
+- [Dynamic Networks](https://github.com/GaganaB/NMA/tree/master/W3D2)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D2/W3D2.pdf)
 
 
 ### Additional Resources 
