@@ -28,6 +28,14 @@
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D1/Week3%2C%20Day1.pdf)
 - [Dynamic Networks](https://github.com/GaganaB/NMA/tree/master/W3D2)
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D2/W3D2.pdf)
+- [Network Causality](https://github.com/GaganaB/NMA/tree/master/W3D3)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D3/w3d3.pdf)
+- Deep Learning
+   - [Part 1](https://github.com/GaganaB/NMA/tree/master/W3D4)  
+             - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D4/w3d4(1).pdf)
+   - [Part 2](https://github.com/GaganaB/NMA/tree/master/W3D5)  
+             - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D5/w3d5.pdf)
+
 
 
 ### Additional Resources 
