@@ -18,6 +18,12 @@
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D1/Week2%2C%20Day1(1).pdf)
 - [Linear Systems](https://github.com/GaganaB/NMA/tree/master/W2D2)
    - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D2/W2D2(1).pdf)
+- [Decision Making](https://github.com/GaganaB/NMA/tree/master/W2D3)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D3/W2D3(1).pdf)
+- [Optimal Control](https://github.com/GaganaB/NMA/tree/master/W2D4)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D4/w2d4.pdf)
+- [Reinforcement Learning](https://github.com/GaganaB/NMA/tree/master/W2D5)
+   - [Slides](https://github.com/GaganaB/NMA/blob/master/W2D5/W2D5.pdf)
 
 
 
