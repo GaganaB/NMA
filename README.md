@@ -36,6 +36,18 @@
    - [Part 2](https://github.com/GaganaB/NMA/tree/master/W3D5)  
              - [Slides](https://github.com/GaganaB/NMA/blob/master/W3D5/w3d5.pdf)
 
+### TAing101
+1. <b>Going unprepared could spell disaster</b>:  
+The students are counting on your experience so, look through the tutorials beforehand.  
+If you really don't have time on a particular day, at least glance through the tutorials so, you're not caught by surprise.
+
+2. <b>Be kind to yourself</b>:
+With content so diverse, it's impossible to be an expert on everything.  
+Accept that you don't know, tell your students that you will get back to them and <b>keep your word</b>.
+
+3. <b>Take the precourse seriously</b>:
+Look up the precourse content as they might help further in making neural correlates when necessary during the course.  
+Or least, help you "get in the zone".
 
 
 ### Additional Resources 
