@@ -59,6 +59,9 @@ And to be creative, sometimes [All you need to do is… nothing](http://www.brig
 6. <b>Be attentive</b>:   
 Watch the non-verbal atmosphere of the day.  
 If the students are bored/exhausted, try to brighten the day by engaging with them.
+> One secret of leadership is that the mind of a leader never turns off. Leaders even they are 
+> sightseers or spectators, are active; not passive observers.
+~ James Humes
 
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
