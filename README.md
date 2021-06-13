@@ -87,6 +87,17 @@ Ask them about their day, what interesting incidents happened in their pod on th
 You'll be surprised by how much you can learn. Take these learnings back to your pod and to your TA.
 > The real take away is the friends you make along the way!!
 
+4. <b> Anything you're going through, talk to your TA </b>: 
+If there's anything that is on your mind or something within the pod that is bothering you, TA is your guy/gal.  
+Remember, they're here for you and want the best for you!
+
+5. <b> Handle Zoom fatigue</b>:  
+Sitting in front of your system all day with intensive tutorials can be exhausting, so be kind to yourself.  
+Surround your self with fresh juices, coffee or anything you'd find comfort in. Ask your TA for breaks to walk around and sustain your focus.
+
+6. <b>Use your weekends well</b>: 
+Use your weekends to possibly step out or spend some me time, attend the keynotes/additional classes from the calendar or look up next week's tutorials.  
+They can help you refresh, and recharge for your week ahead.
 
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
