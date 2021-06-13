@@ -69,6 +69,25 @@ The most important thing you can do is take care of yourself. If you're turn up 
 <b> Special Note: Introvert TA's! </b> Being around people all day is no easy feat. Take time away from screens and curl with music or books every day 
 after hours. Communicate with your students if and when necessary! 
 
+### Advice to Students
+1. <b> Try to be as proactive in your learning as possible</b>:  
+Skim through the next day's tutorials, and look into the additional resources of the current day's tutorial.   
+Try to understand how this connects to your research, to your formal coursework or  
+simply try to understand potential applications.   
+You could also look up related, latest research papers. If you're clueless, request your TA to suggest resources.
+
+2. <b> Don't be afraid to volunteer </b>:
+Who wants to share their colab notebook? ME! Who wants to share their screen? ME!  
+Volunteer for this is a great opportunity to share what you learn and show your skills within the pod.   
+If you're not confident, pick topics that you are confident with, or go through the tutorials in advance. But do it at twice!
+
+3. <b> Talk to your friends in other pods </b>:
+Look for ways to reach out to other students. Join groups on telegram, chat or slack and use all resources available to you.  
+Ask them about their day, what interesting incidents happened in their pod on that day.  
+You'll be surprised by how much you can learn. Take these learnings back to your pod and to your TA.
+> The real take away is the friends you make along the way!!
+
+
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
 For the entire list of videos and other content, refer [here](https://academy.neuromatch.io/nma2020/course-materials).
