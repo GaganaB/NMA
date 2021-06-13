@@ -56,14 +56,18 @@ Your pod relies on you and at times, its' okay for you to rely on them too.
 Try to form unusual connections between concepts and get the students to understand why they're doing what they're doing.  
 And to be creative, sometimes [All you need to do is… nothing](http://www.brigidschulte.com/books/overhelmed/).
 
-6. <b>Be attentive</b>:   
+6. <b> Know thyself</b>:  
+Understand where your weaknesses lie - is it your interpersonal skills, technical understanding, communicating ideas? 
+Teaching has a lot to do with your personality, and fixing the potholes will pay in the longer run!
+
+7. <b>Be attentive</b>:   
 Watch the non-verbal atmosphere of the day.  
 If the students are bored/exhausted, try to brighten the day by engaging with them.
 > One secret of leadership is that the mind of a leader never turns off. Leaders even they are 
 > sightseers or spectators, are active; not passive observers.
 ~ James Humes
 
-7. <b> Take care </b>:  
+8. <b> Take care</b>:  
 The most important thing you can do is take care of yourself. If you're turn up tired, there's no way your students can be excited! 
 
 <b> Special Note: Introvert TA's! </b> Being around people all day is no easy feat. Take time away from screens and curl with music or books every day 
