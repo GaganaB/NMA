@@ -41,14 +41,24 @@
 The students are counting on your experience so, look through the tutorials beforehand.  
 If you really don't have time on a particular day, at least glance through the tutorials so, you're not caught by surprise.
 
-2. <b>Be kind to yourself</b>:
+2. <b>Be kind to yourself</b>:  
 With content so diverse, it's impossible to be an expert on everything.  
 Accept that you don't know, tell your students that you will get back to them and <b>keep your word</b>.
 
-3. <b>Take the precourse seriously</b>:
+3. <b>Take the precourse seriously</b>:  
 Look up the precourse content as they might help further in making neural correlates when necessary during the course.  
 Or least, help you "get in the zone".
 
+4. <b>Form an internal support system</b>:  
+Your pod relies on you and at times, its' okay for you to rely on them too. 
+
+5. <b>Take your creative self to work</b>:  
+Try to form unusual connections between concepts and get the students to understand why they're doing what they're doing.  
+And to be creative, sometimes [All you need to do is… nothing](http://www.brigidschulte.com/books/overhelmed/).
+
+6. <b>Be attentive</b>:   
+Watch the non-verbal atmosphere of the day.  
+If the students are bored/exhausted, try to brighten the day by engaging with them.
 
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
