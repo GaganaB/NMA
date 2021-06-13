@@ -1,4 +1,4 @@
-# NMA
+
 
 ### Index of Computational Neuroscience Topics
 - Python Tutorials
@@ -62,6 +62,12 @@ If the students are bored/exhausted, try to brighten the day by engaging with th
 > One secret of leadership is that the mind of a leader never turns off. Leaders even they are 
 > sightseers or spectators, are active; not passive observers.
 ~ James Humes
+
+7. <b> Take care </b>:  
+The most important thing you can do is take care of yourself. If you're turn up tired, there's no way your students can be excited! 
+
+<b> Special Note: Introvert TA's! </b> Being around people all day is no easy feat. Take time away from screens and curl with music or books every day 
+after hours. Communicate with your students if and when necessary! 
 
 ### Additional Resources 
 It is recommended that you use this list to look up topics you are not particularly comfortable with. 
