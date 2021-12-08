@@ -1,4 +1,5 @@
-
+### Remarks: 
+The repository is under constant development. Check https://github.com/NeuromatchAcademy/course-content for recent updates.
 
 ### Index of Computational Neuroscience Topics
 - Python Tutorials
